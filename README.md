@@ -1,5 +1,3 @@
-# legreench-pixel-chess-privacy
-Privacy policy for Legreench PixelChess
 <!doctype html>
 <html lang="fr">
 <head>
